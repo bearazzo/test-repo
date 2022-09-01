@@ -1,1 +1,2 @@
 # test-repo
+pull test
